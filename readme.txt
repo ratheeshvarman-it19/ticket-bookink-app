@@ -27,6 +27,3 @@ FIRST Download
 Admin
 user: admin
 pass: admin123
-
-****** https://www.campcodes.com ******
-Subcribe my Youtube Channel **** SerBermz ****
